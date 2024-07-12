@@ -76,12 +76,11 @@ body {
 }
 
 .correct {
-  background-color: #28a745; /* Green color for correct answers */
+  background-color: #28a745; 
   color: white;
 }
 
 .wrong {
-  background-color: #dc3545; /* Red color for incorrect answers */
+  background-color: #dc3545; 
   color: white;
 }
-Try It Yourself »
